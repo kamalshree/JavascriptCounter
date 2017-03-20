@@ -1,0 +1,31 @@
+
+#buttoncontainer{
+       margin-left: 450px;
+       padding: 10px;
+
+}
+button{
+    background-color: #CFD8DC;
+}
+table {
+    border-collapse: collapse;
+    width: 25%;
+    margin-left: 400px;
+    background-color: #90A4AE;
+}
+table,td,th{
+   border:1px solid black;
+}
+
+th,td{
+    height: 50px;
+}
+td{
+   text-align: center;
+   font-size: 24px;
+}
+
+h1{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
